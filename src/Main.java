@@ -17,6 +17,8 @@ public class Main {
             // 4. Calcula a média e imprime
             double media = soma / notasAlunos[i].length;
             System.out.println("A média do Aluno " + (i + 1) + " é: " + media);
+
+            //Alteração para subir no Github
         }
     }
 }
